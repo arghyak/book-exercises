@@ -2,12 +2,15 @@
 
 # Create a vector `words` of 6 (or more) words.
 # You can Google for a "random word generator" if you wish!
+words <- c("apple", "boy", "cat", "dog", "egg", "fish")
+words
 
 
 # Create a vector `words_of_the_day` that is your `words` vector with the string
 # "is the word of the day!" pasted on to the end.
 # BONUS: Surround the word in quotes (e.g., `'data' is the word of the day!`)
 # Note that the results are more obviously correct with single quotes.
+paste()
 
 
 # Create a vector `a_f_words` which are the elements in `words` that start with 
